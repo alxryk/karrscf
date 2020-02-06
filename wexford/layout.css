@@ -6,6 +6,8 @@
 img, object, embed, video {
 	max-width: 100%;
 	float: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 /* IE 6 does not support max-width so default to width 100% */
 .ie6 img {
